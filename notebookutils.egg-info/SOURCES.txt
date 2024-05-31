@@ -1,0 +1,7 @@
+setup_notebookutils.py
+notebookutils/__init__.py
+notebookutils/notebookutils.py
+notebookutils.egg-info/PKG-INFO
+notebookutils.egg-info/SOURCES.txt
+notebookutils.egg-info/dependency_links.txt
+notebookutils.egg-info/top_level.txt
